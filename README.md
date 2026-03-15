@@ -31,7 +31,7 @@ I enjoy building simple and useful web applications while continuously improving
 
 ---
 
-## 🚀 My Projects
+##  My Projects
 
 ### 🍲 Resep Makanan
 Simple food recipe website built using **PHP, HTML, and CSS**.
